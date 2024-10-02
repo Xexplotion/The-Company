@@ -1,7 +1,7 @@
 {
-    "name": "X_explotion_TheCompany",
-    "version_number": "0.0.1",
-    "website_url": "",
+    "name": "TheCompany",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/Xexplotion/The-Company/",
     "description": "A great great asset...",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
