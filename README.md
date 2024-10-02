@@ -1,14 +1,14 @@
 # The Company
 
-The Company is a Lethal Company mod that changes gameplay. In the early stages of this mod it will be relativly minor, but as I update it, it will expand.
+The Company is a Lethal Company mod that changes gameplay. In the early stages of development, it will be relatively minor, but as I update it, it will expand.
 
 ## Features
 
-A moral guidence system, to always make you remember to be a great great asset.
+* A moral guidence system, to always make you remember to be a great great asset...
 
-A new system for gameplay (coming soon)
+* A new system for gameplay (coming soon)
 
-It also allows you to explode :)
+* It also allows you to explode :)
 
 ## Configs
 
@@ -16,7 +16,7 @@ Currently the only config inside the mod is to enable or disable god, but it is 
 
 ## Mod Support
 
-Currently, I have no plans to add support for other mods but if you have ideas for it, feel free to open an issue;
+Currently, I have no plans to add support for other mods but if you have ideas for it, feel free to open an issuel.
 
 ## License
 
